@@ -1,3 +1,7 @@
+bbb
+hi hello
+fff
+gg
 hassan & abdelrahman
 
 mohamed zain
@@ -6,3 +10,12 @@ hi
 hello
 hoho
 this is new
+<<<<<<< HEAD
+
+BYEBYE
+=======
+Bonjour
+Bye
+
+HELLO
+>>>>>>> new
